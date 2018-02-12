@@ -7,6 +7,9 @@ int main()
 	cout << "Hello everybody!\n";
 	cout << "Secound line for git\n";
 	cout << "3 + 4 = 7" << endl;
+
+	cout << "For branch_1_2" << endl;
+	
 	cin.get();
 	return 0;
 }
