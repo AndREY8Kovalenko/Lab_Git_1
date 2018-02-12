@@ -7,6 +7,7 @@ int main()
 	cout << "Hello everybody!\n";
 	cout << "Secound line for git\n";
 	cout << "3 + 4 = 7" << endl;
+	cout << "Enter your int number: ";
 	cin.get();
 	return 0;
 }
