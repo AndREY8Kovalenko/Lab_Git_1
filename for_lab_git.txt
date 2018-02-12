@@ -4,6 +4,7 @@
 int main()
 {
 	cout << "Hello everybody!\n";
+	cout << "Secound line for git\n";
 	cin.get();
 	return 0;
 }
