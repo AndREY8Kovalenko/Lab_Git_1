@@ -1,0 +1,9 @@
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+	cout << "Hello everybody!\n";
+	cin.get();
+	return 0;
+}
